@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Creative v5.0.1 (https://startbootstrap.com/template-overviews/creative)
- * Copyright 2013-2018 Start Bootstrap
+ * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
  */
 
@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Titillium Web', 'Helvetica Neue', Arial, sans-serif;
 }
 
 hr {
@@ -40,7 +40,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Teko', 'Helvetica Neue', Arial, sans-serif;
 }
 
 .bg-primary {
@@ -93,7 +93,7 @@ img::-moz-selection {
 #mainNav {
   border-bottom: 1px solid rgba(155, 213, 214, 0.1);
   background-color: #fff;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Teko', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
@@ -102,7 +102,7 @@ img::-moz-selection {
   font-weight: 700;
   text-transform: uppercase;
   color: #06495F;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Teko', 'Helvetica Neue', Arial, sans-serif;
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
@@ -288,7 +288,7 @@ header.masthead p {
   font-size: 16px;
   font-style: italic;
   margin: 0;
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Titillium Web', 'Helvetica Neue', Arial, sans-serif;
 }
 
 #portfolio * {
@@ -328,7 +328,7 @@ header.masthead p {
   font-size: 16px;
   font-style: italic;
   margin: 20px 0 30px;
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Titillium Web', 'Helvetica Neue', Arial, sans-serif;
 }
 
 .portfolio-modal .modal-content ul.list-inline {
@@ -390,7 +390,7 @@ header.masthead p {
   text-transform: uppercase;
   border: none;
   border-radius: 300px;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Teko', 'Helvetica Neue', Arial, sans-serif;
 }
 
 .btn-xl {
